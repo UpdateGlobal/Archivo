@@ -15,7 +15,7 @@ body {
 
 .prueba {
     padding-right: 10% ;
-      padding-left: 10% ;
+      padding-left: 0% ;
       margin-top: 50% ;
       text-align: justify;
 
@@ -26,7 +26,7 @@ body {
       padding-left: 0% ;
       margin-top: -45% ;
       color:black ;
-      text-align: center;
+      text-align: justify;
 }
 
 .mbr-section-subtitle {
