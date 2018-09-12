@@ -95,7 +95,8 @@ section {
   text-align: center; }
 
 .align-right {
-  text-align: right; }
+  text-align: right;
+  margin-right: 3% }
 
 @media (max-width: 767px) {
   .align-left, .align-center, .align-right, .mbr-section-btn, .mbr-section-title {
