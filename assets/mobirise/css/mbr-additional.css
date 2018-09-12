@@ -24,7 +24,7 @@ body {
 .prueba3 {
    padding-right: 0% ;
       padding-left: 0% ;
-      margin-top: 0% ;
+      margin-top: 15% ;
       color:black ;
       text-align: justify;
 }
@@ -775,7 +775,7 @@ pre {
 }
 @media (max-width: 767px) {
   .btn {
-    font-size: .75rem !important;
+    font-size: .50rem !important;
   }
   .btn .mbr-iconfont {
     font-size: 1rem !important;
