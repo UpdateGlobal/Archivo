@@ -166,7 +166,8 @@ section {
   align-content: center;
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
-  align-items: stretch; }
+  align-items: stretch;
+  margin-top: 30%; }
   .media-container-column > * {
     width: 100%;
     margin-top: 20%;
